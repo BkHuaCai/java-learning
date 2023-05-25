@@ -1,3 +1,5 @@
+# 基础篇
+
 ### String和StringBuffer和StringBuilder区别
 三者底层都是char[]存储数据，JDK1.9之后使用的是byte[]，因为我们存储的基本都是端字符串，使用byte[]更加节省空间。<p>
 由于String底层char[]有final修饰，因此每次对String操作都会在内存中开辟一块新空间，生成新的对象，所以String不可变。
