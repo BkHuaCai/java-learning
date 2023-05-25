@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a407660-94d1-4c8c-9ee2-723782fb094b" name="Changes" comment="集合2">
-      <change afterPath="$PROJECT_DIR$/markdown/mysql/index.md" afterDir="false" />
+    <list default="true" id="0a407660-94d1-4c8c-9ee2-723782fb094b" name="Changes" comment="MySQL索引1">
+      <change afterPath="$PROJECT_DIR$/markdown/mybatis/mybatis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown/redis/redis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown/spring/spring.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown/springboot/springboot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown/springmvc/springmvc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown/javase/base.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown/javase/base.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/markdown/javase/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/markdown/javase/collection.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +99,8 @@
       <workItem from="1684925364834" duration="2000" />
       <workItem from="1684981977889" duration="4075000" />
       <workItem from="1684986076835" duration="5000" />
+      <workItem from="1684990100627" duration="1443000" />
+      <workItem from="1685027018650" duration="2791000" />
     </task>
     <task id="LOCAL-00001" summary="第一天1">
       <created>1684916989866</created>
@@ -119,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684983085863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MySQL索引1">
+      <created>1684990828272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684990828272</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +140,7 @@
     <MESSAGE value="第一天1" />
     <MESSAGE value="集合" />
     <MESSAGE value="集合2" />
-    <option name="LAST_COMMIT_MESSAGE" value="集合2" />
+    <MESSAGE value="MySQL索引1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MySQL索引1" />
   </component>
 </project>
